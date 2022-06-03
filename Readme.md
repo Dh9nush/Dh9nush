@@ -1,9 +1,9 @@
-# Welcome! 👋
+# Welcome  👋
 
-![20220521_115254](https://user-images.githubusercontent.com/102510153/169638943-a6f2e08a-dec2-462b-af88-36f893af1521.jpg)
+
 
 <!--
-*vishaljaiswar888/vishaljaiswar888* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Dh9nush/Dh9nush* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 
 # 📑 Projects 
-- Bangalore Real Estate Price Predictor Machine Learning Model
-     - Link: https://bangaluru-real-estate-price.herokuapp.com/
-     - This is end-to-end Machine Learning Model which predicts the price of the house as per the inputs given by the user on the webpage. Say, Location, BHK, Number of Bathrooms and the Area in Square Feets.
+- Fake news Classifier
+     - Link:
+     - This is end-to-end Machine Learning and natural language processing Model which predicts Whether the given News is Fake/Not Fake
      - Interface is made using python’s flask web framework.
 
 
 
-- Movie Recommender System
-     - Link: https://free-movie-recommendation.herokuapp.com/
-     - This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
+- Pancard Tamper Detector
+     - Link:
+     - This project is based on Computer Vision ,detects whether pancard  has been tampered ir not
      - Interface is made using streamlit framework and deployed on heroku.
 
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
      
      
 # 📫 How to reach me 
-   - Linkedin : https://www.linkedin.com/in/vishaljaiswar/
+   
    
    - Gmail : vishal.jaiswar888@gmail.com
      
