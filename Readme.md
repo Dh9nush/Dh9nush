@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - Pancard Tamper Detector
      - Link:
-     - This project is based on Computer Vision ,detects whether pancard  has been tampered ir not
+     - This project is based on Computer Vision ,detects whether pancard  has been tampered or not
      - Interface is made using streamlit framework and deployed on heroku.
 
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 # 📫 How to reach me 
    
    
-   - Gmail : Dh9nush@gmail.com
+   - Gmail : dh9nush@gmail.com
      
      
 # ⚡ Fun fact 
