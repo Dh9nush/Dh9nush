@@ -36,10 +36,7 @@ Here are some ideas to get you started:
 
 
 
-- Bank Loan Eligibility Predictor ML Model 
-     - Link: https://github.com/vishaljaiswar888/bank-loan-eligibility-predictor/tree/master
-     - This is end-to-end machine learning model which predicts whether a user is eligible for loan or not as per the inputs given.
-     - Interface is made using python’s flask web framework.
+
    
    
 # 🤹‍♂️ Skills
@@ -59,7 +56,7 @@ Here are some ideas to get you started:
 # 📫 How to reach me 
    
    
-   - Gmail : vishal.jaiswar888@gmail.com
+   - Gmail : Dh9nush@gmail.com
      
      
 # ⚡ Fun fact 
