@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 # 📑 Projects 
-- Python Project
-     .Music_Recommender
+- Python Project 
+     .Music Recommender
      -Based on data set  from Million Musics 
      -Recommends based on
           -Popularity of Music
