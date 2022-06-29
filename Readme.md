@@ -22,14 +22,21 @@ Here are some ideas to get you started:
 
 
 # 📑 Projects 
-- Fake news Classifier
+- Python_Project
+     .Music_Recommender
+     -Based on data set  from Million Musics 
+     -Recommends based on
+          -Popularity of Music
+          -Similarity of Music between Users
+- NLP Project
+     .Fake news Classifier
      - Link:
      - This is end-to-end Machine Learning and natural language processing Model which predicts Whether the given News is Fake/Not Fake
      - Interface is made using python’s flask web framework.
 
 
-
-- Pancard Tamper Detector
+-COMPUTER VISION Project
+ .Pancard Tamper Detector
      - Link:
      - This project is based on Computer Vision ,detects whether pancard  has been tampered or not
      - Interface is made using streamlit framework and deployed on heroku.
