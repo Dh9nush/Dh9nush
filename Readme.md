@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 # 📑 Projects 
-- Python_Project
+- Python Project
      .Music_Recommender
      -Based on data set  from Million Musics 
      -Recommends based on
