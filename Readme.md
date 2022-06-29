@@ -35,11 +35,11 @@ Here are some ideas to get you started:
      - Interface is made using python’s flask web framework.
 
 
--COMPUTER VISION Project
- .Pancard Tamper Detector
+- COMPUTER VISION Project
+     .Pancard Tamper Detector
      - Link:
      - This project is based on Computer Vision ,detects whether pancard  has been tampered or not
-     - Interface is made using streamlit framework and deployed on heroku.
+     - Interface is made using Flask framework and deployed on heroku.
 
 
 
