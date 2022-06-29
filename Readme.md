@@ -26,8 +26,8 @@ Here are some ideas to get you started:
      .Music Recommender
      -Based on data set  from Million Musics 
      -Recommends based on
-          -Popularity of Music
-          -Similarity of Music between Users
+     -Popularity of Music
+     -Similarity of Music between Users
 - NLP Project
      .Fake news Classifier
      - Link:
