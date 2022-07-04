@@ -62,7 +62,7 @@ Here are some ideas to get you started:
    - IDE/Editors: Jupyter Notebook, Google Colab, Pycharm, VS Code
    
 # Hackthon
-    -Link: https://github.com/Dh9nush/HackThon
+   - Link:https://github.com/Dh9nush/HackThon
      
      
 # 📫 How to reach me 
