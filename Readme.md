@@ -29,6 +29,13 @@ Here are some ideas to get you started:
      -Recommends based on
      -Popularity of Music
      -Similarity of Music between Users
+- Machine Learning
+      1)Bank Customer churn Prediction
+      link: https://github.com/Dh9nush/MachineLearning/tree/main/BankCustomer_Churn_predection
+      -Based on logisticRegressor with  KFold Validation method 
+      -Predicts whether Customer would churn or not with past and Present Data of customer bank transaction and discription
+      -
+      
 - NLP Project
      
      .Fake news Classifier
