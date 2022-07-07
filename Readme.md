@@ -37,7 +37,7 @@ Here are some ideas to get you started:
       1)Bank Customer churn Prediction
       link: https://github.com/Dh9nush/MachineLearning/tree/main/BankCustomer_Churn_predection
       
-      -Based on logisticRegressor with  KFold Validation method 
+      -Based on logisticRegressor and DecisionTree with  KFold Validation method 
       -Predicts whether Customer would churn or not with past and Present Data of customer bank transaction and discription
       -
       
@@ -45,13 +45,16 @@ Here are some ideas to get you started:
      
      .Fake news Classifier
      - Link:https://github.com/Dh9nush/Fake_News_Classifier
+     
      - This is end-to-end Machine Learning and natural language processing Model which predicts Whether the given News is Fake/Not Fake
      - Interface is made using python’s flask web framework.
 
 
 - COMPUTER VISION Project
+
      .Pancard Tamper Detector
      - Link:https://github.com/Dh9nush/PancardTamper_detector_app
+     
      - This project is based on Computer Vision ,detects whether pancard  has been tampered or not
      - Interface is made using Flask framework and deployed on heroku.
 
