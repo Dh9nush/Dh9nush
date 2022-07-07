@@ -34,7 +34,7 @@ Here are some ideas to get you started:
      -Similarity of Music between Users
 - Machine Learning
 
-      1)Bank Customer churn Prediction
+      .Bank Customer churn Prediction
       link: https://github.com/Dh9nush/MachineLearning/tree/main/BankCustomer_Churn_predection
       
       -Based on logisticRegressor and DecisionTree with  KFold Validation method 
