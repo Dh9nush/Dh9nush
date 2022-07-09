@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 # 📑 Projects 
-- Python Project
+# Python Project
      
       Link: https://github.com/Dh9nush/Python
       
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
      -Recommends based on
      -Popularity of Music
      -Similarity of Music between Users
-- Machine Learning
+# Machine Learning
 
      # Bank Customer churn Prediction
       link: https://github.com/Dh9nush/MachineLearning/tree/main/BankCustomer_Churn_predection
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
       
       
       
-- NLP Project
+# NLP Project
      
      # Fake news Classifier
      - Link:https://github.com/Dh9nush/Fake_News_Classifier
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
      - Interface is made using python’s flask web framework.
 
 
-- COMPUTER VISION Project
+# COMPUTER VISION Project
 
      # Pancard Tamper Detector
      - Link:https://github.com/Dh9nush/PancardTamper_detector_app
