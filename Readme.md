@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 
 # 📑 Projects 
-- Python Project'
+- Python Project
      
       Link: https://github.com/Dh9nush/Python
       
-     .Music Recommender
+     # Music Recommender
      
      -Based on data set  from Million Musics 
      -Recommends based on
@@ -34,13 +34,13 @@ Here are some ideas to get you started:
      -Similarity of Music between Users
 - Machine Learning
 
-      .Bank Customer churn Prediction
+     # Bank Customer churn Prediction
       link: https://github.com/Dh9nush/MachineLearning/tree/main/BankCustomer_Churn_predection
       
       -Based on logisticRegressor and DecisionTree with  KFold Validation method 
       -Predicts whether Customer would churn or not with past and Present Data of customer bank transaction and discription
       
-      .NyC_Trip_Time_Prediction
+     # NyC_Trip_Time_Prediction
       link: https://github.com/Dh9nush/MachineLearning/tree/main/NyC_Trip_Time_Project/Model
       
       -Based on linearRegressor and DecisionTree with  KFold Validation method
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
       
 - NLP Project
      
-     .Fake news Classifier
+     # Fake news Classifier
      - Link:https://github.com/Dh9nush/Fake_News_Classifier
      
      - This is end-to-end Machine Learning and natural language processing Model which predicts Whether the given News is Fake/Not Fake
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 - COMPUTER VISION Project
 
-     .Pancard Tamper Detector
+     # Pancard Tamper Detector
      - Link:https://github.com/Dh9nush/PancardTamper_detector_app
      
      - This project is based on Computer Vision ,detects whether pancard  has been tampered or not
