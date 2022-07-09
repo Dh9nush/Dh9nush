@@ -39,7 +39,15 @@ Here are some ideas to get you started:
       
       -Based on logisticRegressor and DecisionTree with  KFold Validation method 
       -Predicts whether Customer would churn or not with past and Present Data of customer bank transaction and discription
-      -
+      
+      .NyC_Trip_Time_Prediction
+      link: https://github.com/Dh9nush/MachineLearning/tree/main/NyC_Trip_Time_Project/Model
+      
+      -Based on linearRegressor and DecisionTree with  KFold Validation method
+      -Estimates Time taken By Taxi to complete a single trip 
+      -Used for check availiblity of taxi in NewYorkCenter
+      
+      
       
 - NLP Project
      
