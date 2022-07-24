@@ -32,6 +32,10 @@ Here are some ideas to get you started:
      -Recommends based on
      -Popularity of Music
      -Similarity of Music between Users
+     
+     - Text Sentiment Analysis Using Data obtaied from scrapping BlackCoffee Webiste 
+     - Data is nonStructed Data i.e in Text Format
+     - Analysis is done by different types of  rating text using words from positive and neagtive list provided
 # Machine Learning
 
      - Bank Customer churn Prediction
