@@ -52,6 +52,12 @@ Here are some ideas to get you started:
       -Estimates Time taken By Taxi to complete a single trip 
       -Used for check availiblity of taxi in NewYorkCenter
       
+     - Employeer_Attrition_Prediction
+     link: https://github.com/Dh9nush/MachineLearning/tree/main/MyAnalyticSchool
+     
+     - Based on LogisticRegressor,RandomForest,DecisionTree,SVM,KNN
+     - Predicts Whether Employee Would Leave or not
+     - Analyse and finding Factors that effects Employee Attrition ,so Prescribe solution for attrition problem
       
       
 # NLP Project
