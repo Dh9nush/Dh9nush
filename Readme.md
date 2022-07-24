@@ -34,6 +34,7 @@ Here are some ideas to get you started:
      -Similarity of Music between Users
      
      - Text Sentiment Analysis Using Data obtaied from scrapping BlackCoffee Webiste 
+     
      - Data is nonStructed Data i.e in Text Format
      - Analysis is done by different types of  rating text using words from positive and neagtive list provided
 # Machine Learning
