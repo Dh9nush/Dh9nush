@@ -103,7 +103,7 @@ Here are some ideas to get you started:
    
    
    - Gmail : dh9nush@gmail.com
-   - linkden : https://www.linkedin.com/in/dhanush-shetty-235675210
+   - linkden : https://www.linkedin.com/in/dh9nush
      
      
 # ⚡ Fun fact 
